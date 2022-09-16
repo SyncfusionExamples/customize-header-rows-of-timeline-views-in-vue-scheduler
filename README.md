@@ -1,0 +1,2 @@
+# customize-header-rows-of-timeline-views-in-vue-scheduler
+A quick start project that shows about different header row options available in the Syncfusion Vue Scheduler component. This project also includes a code snippet to add different header row options in timeline views, and customize the header rows with built-in template options as well as how to load a whole year’s data in the Vue Scheduler.
