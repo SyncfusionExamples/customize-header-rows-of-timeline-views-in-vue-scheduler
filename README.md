@@ -2,9 +2,19 @@
 
 A quick start project that shows about different header row options available in the Syncfusion Vue Scheduler component. This project also includes a code snippet to add different header row options in timeline views, and customize the header rows with built-in template options as well as how to load a whole year’s data in the Vue Scheduler.
 
-Example: https://ej2.syncfusion.com/vue/demos/#/bootstrap5/schedule/header-rows.html 
+## Features
 
-Documentation: https://ej2.syncfusion.com/vue/documentation/schedule/header-rows/
+- Different header row options for timeline views
+- Built-in template options for header row customization
+- Support for loading a whole year's data
+- Responsive scheduler layout
+
+## Resources
+
+- **Live Demo:** https://ej2.syncfusion.com/vue/demos/#/bootstrap5/schedule/header-rows.html
+- **Documentation:** https://ej2.syncfusion.com/vue/documentation/schedule/header-rows/
+- **Vue Scheduler Introduction:** https://ej2.syncfusion.com/vue/documentation/introduction
+- **Vue Schedule Component Guide:** https://ej2.syncfusion.com/vue/documentation/schedule/getting-started
 
 ## Project pre-requisites
 
@@ -34,7 +44,13 @@ npm install
 
 Run `npm run serve` command for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
 
-## Further help
+## Additional Resources
 
-To get more help on the vue CLI use go check out the [Vue-Cli README](https://github.com/vuejs/vue-cli/blob/master/README.md).
+- [Vue-Cli Documentation](https://github.com/vuejs/vue-cli/blob/master/README.md)
+- Syncfusion Vue Scheduler provides a rich set of features for scheduling applications
+- Explore more samples and documentation in the official Syncfusion repository
+
+## Support
+
+For more information, refer to the [Syncfusion Vue Scheduler documentation](https://ej2.syncfusion.com/vue/documentation/schedule/overview/).
 
